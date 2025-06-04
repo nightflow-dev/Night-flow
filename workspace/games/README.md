@@ -4,9 +4,9 @@
 
 ---
 
+⚙️  This repository is *curated content.*  
+Any unauthorized access or browsing is strictly discouraged.
 
-╔════════════════════════════════╗
-║        ACCESS DENIED                 ║
-║  Unauthorized access detected        ║
-║  Your presence is unwelcome.         ║
-╚════════════════════════════════╝
+---
+
+*Turn back now. This place isn’t for you.*
