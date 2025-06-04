@@ -4,9 +4,9 @@
 
 ---
 
-```plaintext
+
 ╔════════════════════════════════╗
-║        ACCESS DENIED           ║
-║  Unauthorized access detected  ║
-║  Your presence is unwelcome.   ║
+║        ACCESS DENIED                 ║
+║  Unauthorized access detected        ║
+║  Your presence is unwelcome.         ║
 ╚════════════════════════════════╝
